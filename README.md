@@ -19,7 +19,7 @@ Not here to just write code, here to understand how things work, how they break,
 Build quietly. Improve daily. Let the results make the noise.
 
 📊 𝘚𝘵𝘢𝘵𝘴
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="150"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlexGhostRoot&show_icons=true&theme=tokyonight&hide_border=true" height="150"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" height="150"/> </p>
 🧩 𝘊𝘶𝘳𝘳𝘦𝘯𝘵 𝘔𝘰𝘥𝘦
 Learning ██████████░░  
 Building ███████████░  
